@@ -5,15 +5,7 @@ const Experience = () => {
     <section className="experienceContainer">
       <h3 className="experienceTitle">A little about me</h3>
       <p className="experienceParagraph">
-        I am a software engineer, currently based in the Greater Philadelphia
-        Area. Formally trained in Finance but fell in love with the creativity
-        and problem solving that comes with being an engineer. Most of the time
-        you can find me working on a project that includes JavaScript, React,
-        and Node js. When I have free time I find myself working out, cooking a
-        meal with semi-adherence to the online recipe (so many spices) or
-        navigating my way through the world of computer science. That's enough
-        about me, for now, if you would like to extend the conversation, reach
-        out!
+        I am a full stack web developer born and raised in Chicago, Illinois. Most of my professional life has been spent in specialty retail and event management but I've always had an interest in technology and software development. I thoroughly enjoy identifying problems and opportunities for gains in efficiency then crafting solutions to those needs. I spend my free time gaming, working on person projects of various types and working with budding software developers. I also love meeting new people so I hope that we'll have a chance to become acquainted.
       </p>
     </section>
   );
