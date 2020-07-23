@@ -14,12 +14,12 @@ const SoMe = () => {
         </p>
         <ul className="labsUl">
           <li>
-            Built from scrath in less than 8 weeks, with cross discipline teams
-            (ux, data science) in an agile enviornment
+            Built from scratch in less than 8 weeks, with cross discipline teams
+            (UX/UI, Data Science) in an agile enviornment
           </li>
           <li>
             Implemented Twitter's API enabling users to draft, schedule and post
-            tweets to any of their accounts
+            tweets to any of their linked accounts
           </li>
           <li>
             Led consultations with product stakeholders and real-world users in
