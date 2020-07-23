@@ -10,7 +10,7 @@ const SoMe = () => {
           A social media manager, kanban style, capable of organizing, and
           scheduling tweets while simultaneously managing engagement statistics.
           Data science enables a user to gauge what is the optimal posting time
-          and how effective a tweet will be to their following
+          and how effective a tweet will be to their following.
         </p>
         <ul className="labsUl">
           <li>
