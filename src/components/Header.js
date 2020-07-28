@@ -8,26 +8,25 @@ const Header = () => {
     <nav className="headerContainer">
       <p className="intro">Hi, my name is</p>
       <h1 className="name">
-        Jason <span className="alt">Long</span>
+        Ramonta <span className="alt">Lee</span>
       </h1>
-      <p className="intro">I enjoy developing creative solutions to unique challenges.</p>
+      <p className="intro">
+        I enjoy developing creative solutions to unique challenges.
+      </p>
       <div className="media">
         <ul>
           <li className="links">
-            <a href="https://github.com/jlong5795" target="blank">
+            <a href="https://github.com/Ramonta-Lee" target="blank">
               <img fill="" src={Github} alt="github" />
             </a>
           </li>
           <li className="links">
-            <a
-              href="https://www.linkedin.com/in/jasonlong1231/"
-              target="blank"
-            >
+            <a href="https://www.linkedin.com/in/ramonta-lee/" target="blank">
               <img src={LinkedIn} alt="LinkedIn" />
             </a>
           </li>
           <li className="links">
-            <a href="https://twitter.com/JLong5795" target="blank">
+            <a href="https://twitter.com/RamontaLee" target="blank">
               <img fill="" src={Twitter} alt="Twitter" />
             </a>
           </li>
