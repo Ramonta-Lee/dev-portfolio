@@ -7,7 +7,7 @@ import MuiAlert from "@material-ui/lab/Alert";
 
 const Contact = () => {
   const [copy, setCopy] = useState({
-    value: "jlong5795@gmail.com",
+    value: "viola4lfe@gmail.com",
     copied: false
   });
 
@@ -40,21 +40,21 @@ const Contact = () => {
           onCopy={() => setCopy({ copied: true })}
         >
           <span className="email" onClick={handleClick}>
-            JLong5795@gmail.com
+            Viola4lfe@gmail.com
           </span>
         </CopyToClipboard>
       </p>
 
       <p className="contactParagraph">
         Add me to your network{" "}
-        <a href="https://www.linkedin.com/in/jasonlong1231/" target="blank">
+        <a href="https://www.linkedin.com/in/ramonta-lee/" target="blank">
           LinkedIn
         </a>
       </p>
       <p className="contactParagraph">
         Tag me in a tweet{" "}
-        <a href="https://twitter.com/jlong5795" target="blank">
-          @JLong5795
+        <a href="https://twitter.com/RamontaLee" target="blank">
+          @RamontaLee
         </a>
       </p>
 
