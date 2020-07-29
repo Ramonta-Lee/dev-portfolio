@@ -1,5 +1,5 @@
-import React from 'react';
-import Arrow from '../assets/icons8-right-35.svg';
+import React from "react";
+import Arrow from "../assets/icons8-right-35.svg";
 
 const BucketList = () => {
   return (
@@ -7,34 +7,30 @@ const BucketList = () => {
       <div className="labsDescription">
         <h2 className="labsHeader">BucketList</h2>
         <p className="labsParagraph">
-          A social media 
+          Bucket List is an app that makes it easy to plan and organize your
+          dreams and aspirations for travel or accomplishments. You can add
+          photos, journal entries, voice recordings and videos - memories of
+          your adventures that you can share with friends and family.
         </p>
         <ul className="labsUl">
           <li>
-            Built from scratch in less than 8 weeks, with cross discipline teams
-            (UX/UI, Data Science) in an agile enviornment
+            Built from scratch in less than 1 week, with cross discipline teams
+            (UX/UI, IOS) in an agile environment
           </li>
-          <li>
-            Implemented Twitter's API enabling users to draft, schedule and post
-            tweets to any of their linked accounts
-          </li>
-          <li>
-            Led consultations with product stakeholders and real-world users in
-            a SCRUM enviornment
-          </li>
+          <li>Built responsive site for all devices</li>
         </ul>
         <a
-          href="https://github.com/Lambda-School-Labs/social-media-strategy-fe#readme"
+          href="https://github.com/Build-week-bucket-list-3/Marketing"
           target="blank"
         >
           <p className="labsParagraphLink">
-            Checkout the code{' '}
+            Checkout the code{" "}
             <img className="labsImage" src={Arrow} alt="arrow pointing right" />
           </p>
         </a>
-        <a href="https://www.so-me.net/" target="blank">
+        <a href="https://bucket-list-marketing.netlify.app" target="blank">
           <p className="labsParagraphLink">
-            Checkout the app{' '}
+            Checkout the app{" "}
             <img className="labsImage" src={Arrow} alt="arrow pointing right" />
           </p>
         </a>
