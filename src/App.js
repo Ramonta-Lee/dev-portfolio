@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./components/Header";
-import SoMe from "./components/SoMe";
-import SaltiestHackerNews from './components/SaltiestHackerNews';
+import BucketList from "./components/BucketList";
+import MiracleMessages from './components/MiracleMessages';
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
 
@@ -9,8 +9,8 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <SaltiestHackerNews />
-      <SoMe />
+      <MiracleMessages />
+      <BucketList />
       <Experience />
       <Contact />
     </div>

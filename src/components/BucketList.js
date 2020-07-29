@@ -1,16 +1,13 @@
 import React from 'react';
 import Arrow from '../assets/icons8-right-35.svg';
 
-const SoMe = () => {
+const BucketList = () => {
   return (
     <section className="labs">
       <div className="labsDescription">
-        <h2 className="labsHeader">SoMe</h2>
+        <h2 className="labsHeader">BucketList</h2>
         <p className="labsParagraph">
-          A social media manager, kanban style, capable of organizing, and
-          scheduling tweets while simultaneously managing engagement statistics.
-          Data science enables a user to gauge what is the optimal posting time
-          and how effective a tweet will be to their following.
+          A social media 
         </p>
         <ul className="labsUl">
           <li>
@@ -47,4 +44,4 @@ const SoMe = () => {
   );
 };
 
-export default SoMe;
+export default BucketList;
