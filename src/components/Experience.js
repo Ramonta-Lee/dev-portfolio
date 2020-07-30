@@ -5,16 +5,19 @@ const Experience = () => {
     <section className="experienceContainer">
       <h3 className="experienceTitle">A little about me</h3>
       <p className="experienceParagraph">
-        I am a full stack web developer from Virginia.
-        I have spent over 9yrs in the field of music education, and I bring with me
-        to this field, a passion for not only creativity but, analytical and
-        reflective thinking. My primary instrument is the viola and I have been
-        playing for over 20yrs getting to perform all over the country, and with
-        major headlining talent. These experiences feed me and are what drives
-        my interests in the ability to create and collaborate with others to
-        design beautiful creations on the web. I am a military veteran through
-        which I was able to experience other cultures and perspectives, as well as
-        know what it means to be of service to others. When I'm not coding I am making music, spending time with loved ones, or enjoying some delicious home cooking. I love meeting new people and getting to talk about code so feel free to reach out.
+        Hello, my name is Ramonta Lee. I am a full stack web developer with a
+        strong interest in educational applications. My most notable strengths
+        include JavaScript, React, Redux, Node, Python, and Express. Having
+        taught in a public educational setting for 9yrs, and served in the armed
+        forces for 6yrs, I have learned to never give up no matter the
+        challenges you may face. Working towards learning new things,
+        creativity, and improving my skills has been at the heart of both
+        professions. It is this curiosity and drive that I take with me into the
+        world of web development. I want to continue to improve and utilize
+        these skills in this field. When I'm not coding, I'm practicing my Viola
+        and working on music, trying out new recipes, or spending time with
+        loved ones. I love making new connections so if you'd like to know more
+        or discuss ideas, please feel free to get in touch.
       </p>
     </section>
   );
